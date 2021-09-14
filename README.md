@@ -4,8 +4,6 @@
 
 <img src="![clima1](https://user-images.githubusercontent.com/88890771/133341914-03e5dc6b-78e0-45a7-91e1-636ddbe0ff31.png)"></img></br>
 <img src="
-![clima2](https://user-images.githubusercontent.com/88890771/133341956-7aef2e69-a1e8-4bab-b04f-20185322dd52.png)
-
-"></img>
+![clima2](https://user-images.githubusercontent.com/88890771/133341956-7aef2e69-a1e8-4bab-b04f-20185322dd52.png)"></img>
 
   
